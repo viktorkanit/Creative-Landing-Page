@@ -587,7 +587,8 @@ footer {
 		justify-content: space-around;
 	}
 	.feature-item {
-		margin-top:25px;
+		margin-top:35px;
+
 	}
 	.properies-item p  {
 		width: 100%;
@@ -597,6 +598,9 @@ footer {
 		direction: flex;
 		justify-content: center;
 		flex-wrap: wrap;
+	}
+	.container {
+		max-width: 770px;
 	}
 }
 
